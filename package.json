@@ -1,6 +1,6 @@
 {
   "name": "fwitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple function switch.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "functional",
     "return"
   ],
-  "author": "Giovanni T. Parra",
+  "author": "fiatjaf",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fiatjaf/fwitch/issues"
